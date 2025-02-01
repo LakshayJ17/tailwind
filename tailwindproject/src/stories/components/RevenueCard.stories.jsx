@@ -1,5 +1,5 @@
 import { RevenueCard } from "../../components/RevenueCard";
-
+ 
 const meta = {
     component: RevenueCard,
 };
